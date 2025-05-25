@@ -91,6 +91,11 @@ img {
   gap: 40px;
 }
 
+.header-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
 .header-address-list {
   display: flex;
   gap: 40px;
