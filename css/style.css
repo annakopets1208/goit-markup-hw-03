@@ -36,8 +36,6 @@ img {
 }
 
 .header {
-  margin-top: 24px;
-  margin-bottom: 24px;
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -89,6 +87,11 @@ img {
 .header-list {
   display: flex;
   gap: 40px;
+}
+
+.header-item {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .header-address-list {
@@ -261,7 +264,8 @@ body {
 }
 
 .section-class {
-  padding: 32px 32px;
+  padding-top: 32px;
+  padding-bottom: 32px;
 }
 
 .content {
